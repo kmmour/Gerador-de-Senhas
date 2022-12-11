@@ -13,7 +13,7 @@ O gerador de senhas contém: <br>
 • Datas :white_check_mark: <br>
 <br> :point_right: Algumas imagens de como o gerador funciona: <br>
 <br>
-![image](https://user-images.githubusercontent.com/120140302/206912758-86d34476-0e48-4900-a37a-8f7d613e3105.png)
+![image](https://user-images.githubusercontent.com/120140302/206914296-7059e12e-74e3-453c-ba4b-c889a8c175b3.png)
 
 ![image](https://user-images.githubusercontent.com/120140302/206913820-7cd7b4a4-3c8c-488a-8781-8a5da8d97781.png)
 
