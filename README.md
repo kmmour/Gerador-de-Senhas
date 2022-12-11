@@ -11,3 +11,5 @@ O gerador de senhas contém: <br>
 • Persistencia :white_check_mark: <br>
 • Recursão :white_check_mark: <br>
 • Datas :white_check_mark: <br>
+
+![image.png](attachment:image.png)
