@@ -17,7 +17,8 @@ O gerador de senhas contém: <br>
 
 ![image](https://user-images.githubusercontent.com/120140302/206913820-7cd7b4a4-3c8c-488a-8781-8a5da8d97781.png)
 
-![image](https://user-images.githubusercontent.com/120140302/206913196-74a0dbdb-2087-4f76-bf37-f4e6b612cd5d.png)
+![image](https://user-images.githubusercontent.com/120140302/207039575-fee652de-e93f-492f-bb1c-7ddc1847710e.png)
+
 
 
 
